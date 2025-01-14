@@ -1,4 +1,4 @@
-class s3s < Formula
+class S3s < Formula
   desc "AWS S3 Size Utility"
   homepage "https://github.com/apdingman/homebrew-s3s"
   url "https://github.com/apdingman/homebrew-s3s/releases/download/v0.1.0/s3s-v0.1.0-darwin-amd64.tar.gz"
