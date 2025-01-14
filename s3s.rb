@@ -10,7 +10,7 @@ class s3s < Formula
   end
 
   test do
-    system "#{bin}/s3s, "--version"
+    system "#{bin}/s3s", "--version"
   end
 end
 
